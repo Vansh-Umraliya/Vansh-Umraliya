@@ -2,18 +2,18 @@
 <h3 align="center">🚀 DevOps Enthusiast | Cloud Explorer | Linux Power User</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Building+DevOps+skills+day+by+day.;Lover+of+Linux+%26+Automation.;Always+Learning+AWS%2C+Docker%2C+K8s+%26+more!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Always+Learning+AWS%2C+Docker%2C+K8s+%26+More!" alt="Typing SVG" />
 </p>
 
 ---
 
-🔧 I’m a passionate learner, diving deep into DevOps, AWS Cloud, Linux, and automation.  
-💻 I build, break, fix and learn by doing real-world projects.  
-📈 On a journey to become a skilled DevOps Engineer.
+- 🔍 I’m a passionate learner, diving deep into **DevOps**, **AWS Cloud**, **Linux**, and **automation**.  
+- 💡 I build, break, fix, and learn by doing real-world projects.  
+- 🧩 On a journey to become a skilled **DevOps Engineer**.
 
 ---
 
-### 🛠️ Tools & Technologies
+### ⚒️ Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -30,37 +30,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-Umraliya&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh-Umraliya&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Umraliya&layout=compact&theme=radical" width="40%"/>
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vansh-Umraliya&theme=dracula&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Umraliya&layout=compact&theme=radical" width="50%"/>
 </p>
 
 ---
 
 ### 📬 Connect with Me
 
-- 📧 Email: **vanshumraliya@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/vansh-umraliya)
+- 📧 Email: **vanshumraliya@gmail.com**
 
 ---
 
-### 💡 Motto
+### ✨ Quote I Follow
 
 > “Every error is an opportunity to learn. Every script is a step forward. Keep building, keep growing.”
-
----
 
