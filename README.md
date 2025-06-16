@@ -1,8 +1,8 @@
-<h1 align="center" style="font-family:Segoe UI, sans-serif; font-size:36px;">Hey there 👋, I'm <span style="color:#f97316;">Vansh Umraliya</span></h1>
-<h3 align="center" style="font-family:Segoe UI, sans-serif; font-size:24px;">🚀 DevOps Enthusiast | Focused on Cloud, Automation & Linux</h3>
+<h1 align="center" style="font-family:Segoe UI, sans-serif; font-size:42px;">Hey there 👋, I'm <span style="color:#f97316;">Vansh Umraliya</span></h1>
+<h3 align="center" style="font-family:Segoe UI, sans-serif; font-size:28px;">🚀 DevOps Enthusiast | Focused on Cloud, Automation & Linux</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Always+Learning+AWS%2C+Docker%2C+K8s+%26+More!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Always+Learning+AWS%2C+Docker%2C+K8s+%26+More!" alt="Typing SVG" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 
 ### ✨ Quote I Live By
 
-<p align="center" style="font-style:italic; font-size:20px;">
+<p align="center" style="font-style:italic; font-size:22px;">
 “Every error is an opportunity to learn. Every script is a step forward. Keep building, keep growing.”
 </p>
 
