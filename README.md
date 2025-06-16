@@ -1,17 +1,17 @@
-<h1 align="center" style="font-family:Segoe UI, sans-serif; font-size:42px;">Hey there 👋, I'm <span style="color:#f97316;">Vansh Umraliya</span></h1>
-<h3 align="center" style="font-family:Segoe UI, sans-serif; font-size:28px;">🚀 DevOps Enthusiast | Focused on Cloud, Automation & Linux</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#f97316;">Vansh Umraliya</span></h1>
+<h2 align="center">DevOps Enthusiast | Cloud | Automation | Linux</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Always+Learning+AWS%2C+Docker%2C+K8s+%26+More!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Always+Learning+AWS%2C+Docker%2C+K8s+%26+More!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔍 I’m a passionate learner, diving deep into **DevOps**, **AWS Cloud**, **Linux**, and **automation**  
-- 💡 I build, break, fix, and learn by doing real-world projects  
-- 🎯 Currently on a journey to become a skilled **DevOps Engineer**
+- 🔍 Passionate about **DevOps**, **AWS**, **Linux**, and **Automation**  
+- 💡 I learn by building real-world projects, breaking things, and fixing them  
+- 🎯 Currently growing into a skilled **DevOps Engineer**
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-### 📢 Connect with Me
+### 📬 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vansh-umraliya" target="_blank">
@@ -53,24 +53,8 @@
 
 ---
 
-### ✨ Quote I Live By
+### 💡 Quote I Follow
 
-<p align="center" style="font-style:italic; font-size:22px;">
+<p align="center" style="font-style:italic; font-size:20px;">
 “Every error is an opportunity to learn. Every script is a step forward. Keep building, keep growing.”
 </p>
-
----
-
-### 🎨 Theme Toggle (Dark/Light)
-
-> GitHub automatically adapts dark/light theme. For README-specific toggles, advanced JavaScript or Shields.io dynamic themes aren't supported natively on GitHub pages. But your stats and badges will auto-match viewer's GitHub theme preference.
-
----
-
-### 🌈 Lottie Animation (Optional)
-
-<p align="center">
-  <img src="https://lottie.host/ee5d4ec6-cb1b-4f90-9897-8639a788a4d0/9DqwEu8oQf.json" width="300px"/>
-</p>
-
-> (If the animation doesn't load, it may need to be converted into a supported GIF or embedded via external site like [LottieFiles](https://lottiefiles.com/))
